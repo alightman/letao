@@ -1,0 +1,17 @@
+
+html,body{
+    height: 100%;
+}
+.bg_body{
+    background: #222d32;
+    height: 100%;
+}
+.mt_150{
+    margin-top: 150px;
+}
+.panel h3{
+    text-align: center;
+}
+.mt_20{
+    margin-top: 20px;
+}
